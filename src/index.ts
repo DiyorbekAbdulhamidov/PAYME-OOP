@@ -1,6 +1,6 @@
 import { Card } from "./entities/card";
 import { User } from "./entities/user";
-import { CardRepository } from "./repository/card-repository";
+// import { CardRepository } from "./repository/card-repository";
 import { UserRepository } from "./repository/user-repository";
 
 function init() {
